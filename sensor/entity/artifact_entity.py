@@ -1,3 +1,4 @@
+# artifact_entity
 from dataclasses import dataclass
 
 @dataclass
